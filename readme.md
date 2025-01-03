@@ -14,7 +14,7 @@ Imagine the questions we would have to answer if our prior selves could hold a p
 ***Have we protected the privacy of people's government identifiers, financial data, or virtual and physical addresses and contact information?***
 
 **No**. What have we achieved?
-1. Nearly every member of the public now has enough free credit reporting to last until the heat death of the universe
+1. Nearly every member of the public now has enough free credit reporting to last until the heat death of the universe, and
 2. we have numbed the public to seemingly-endless disclosures that their data has been compromised.
 
 ***Have we reduced losses to scams and cybercrime?***
@@ -32,6 +32,19 @@ We helped create the cryptocurrency technologies that have enabled ransomware, p
 What's worse, these security products often require highly-privileged access to customers networks and data, yet their code is rarely written to the high standard one would expect given the privileged access it runs with. The result: security technologies have introduced new vectors through which attackers can compromise even the organizations that are in greatest need of protection and invest the most in it. Or, as in the case of [CrowdStrike](https://en.wikipedia.org/wiki/2024_CrowdStrike-related_IT_outages), security products introduce entirely new failure modes that require no adversarial behavior to disrupt lives and incur billions of dollars of losses.
 
 [^exception]: The notable exceptions that proves the rule are password managers. Some were founded with the mission of serving consumers, but shifted focus to enterprises after being purchased by private equity ([LastPass](https://en.wikipedia.org/wiki/LastPass)) or receiving investments from Venture Capitalists (1Password).
+
+***Have we secured citizens from authoritarian technology?***
+
+**No.** We have given authoritarians greater control over their citizens' access to technology.
+
+In 2002 most citizens had software autonomy: their primary computing device was a personal computer onto which they could install or compile any software they wanted. Their government might ban certain software and make it hard to find, but if it wanted its citizens to have access to modern technology, it had to give them access to general-purpose computing devices that would allow them to run banned software.[^TPMs]
+
+[^TPMs]: Back in 2002, trusted platform modules appeared to be the biggest threat to software autonomy.
+
+Then, Apple and Google discovered they could make more money if they monopolized the means through which software was distributed on their platforms. Their mobile platforms, iOS and Android, took away users' autonomy to install the software of their choosing. Security technologists at Apple and Google told users that this was in their best interest to prevent malware, and many of us in the security research community agreed. Our culture of blaming users for software architecture[^malware] helped them justify the need to reduce users' autonomy. Today, governments can decide whether we are allowed to use applications that can perform encryption, and they have turned our computing devices are used to surveil us, reducing our privacy.
+
+[^malware]: Malware was so prevalent on personal computers because their security model gave all software the power to corrupt other software by default. Mobile operating systems sandboxed applications from each other by default, and evolved fined-grained permissions systems so that users would not need to give the games they downloaded access to their camera, contact information, and stored passwords.
+
 
 ***Do we still even aspire to keep people safe and building systems they can trust?***
 
@@ -75,9 +88,9 @@ It's not that most of us don't want to make pro-social choices and better the wo
 
 We cannot fix problems if we deny their existence or our role in them. We cannot resolve conflicts of interest if we pretend they don't exist.
 
-The cybersecurity industry that protects companies from the public's negligence lawsuits, the cryptocurrency industry that enables organized crime, and big tech platforms protecting their monopolies all employ security technologists that purport to be protecting and serving the public when they are really protecting industry.
+One problem is that many of us in public-facing security roles purport that protecting the public (*users*) is our paramount goal when, in fact, our first obligation is to protect our employers.  This problem underlies many of our other problems. The cybersecurity industry that protects companies from the public's negligence lawsuits, the cryptocurrency industry that enables organized crime, and big tech platforms protecting their monopolies all employ security technologists to help present the illusion their are serving the public.
 
-Throughout industry, many of us in public-facing security roles purport that protecting the public (*users*) is our paramount goal when, in fact, our first obligation is to protect our employers. Whereas doctors are bound by the ethical code of nonmaleficence (do no harm), there is no code that obligates those of us working in security protect and inform the public when the public interest is in conflict with that of our employer.[^breach]
+Whereas doctors are bound by the ethical code of nonmaleficence (do no harm), there is no code that obligates those of us working in security protect and inform the public when the public interest is in conflict with that of our employer.[^breach]
 
 [^breach]: Breach-disclosure laws attempt to remedy a symptom of this problem, but not the underlying cause.
 
