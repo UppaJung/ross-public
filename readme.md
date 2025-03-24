@@ -9,7 +9,7 @@ His ideas and arguments threatened the beliefs, status, power, ego, and bank bal
 
 Ross was not afraid to speak truths that made people uncomfortable. 
 
-Most of those of us celebrating Ross's life are members of the scientific and academic community that researches security within the context of computing, technology, and public policy. While we may not be policymakers or titans of industry, almost all of us are privileged to have knowledge and skills that give us far more power ove our use of technology than the average citizen. Most of us believe that we we use this knowledge and our skills faithfully serve the public.
+Most of those of us celebrating Ross's life are members of the scientific and academic community that researches security within the context of computing, technology, and public policy. While we may not be policymakers or titans of industry, almost all of us are privileged to have knowledge and skills that give us far more power over our use of technology than the average citizen. Most of us believe that we we use this knowledge and our skills faithfully serve the public.
 
 And so, the best way to honor Ross is to share truths that cause discomfort to *us*, by questioning our belief that we are using our power to make the world a better place.
 
@@ -60,9 +60,9 @@ Then, Apple and Google discovered they could make more money if they monopolized
 >
 > …
 >
-> There are many changes Microsoft needs to make as a company to ensure and keep our customers’ *trust* at every level – from the *way* we develop software, to *our* support efforts, to *our* operational and business practices.[^emphasis]
+> There are many changes Microsoft needs to make as a company to ensure and keep our customers’ *trust* at every level – from the way *we* develop software, to *our* support efforts, to *our* operational and business practices.[^emphasis]
 
-[^emphasis]: Emphasis in quote added to highlight that when *Microsoft* used the word "trust", it applied to how *Microsoft* should behave. It was used to keep the company accountable to its users. The original January 15, 2002 memo is reproduced available via a [10-year retrospective from Microsoft](https://news.microsoft.com/2012/01/11/memo-from-bill-gates/) and a Wired article from [January 17, 2002](https://www.wired.com/2002/01/bill-gates-trustworthy-computing/).
+[^emphasis]: Emphasis in quote added to highlight that when *Microsoft's* founder and then-CEO used the word "trust", he used it to hold *Microsoft* accountable to its users. The original January 15, 2002 memo is reproduced available via a [10-year retrospective from Microsoft](https://news.microsoft.com/2012/01/11/memo-from-bill-gates/) and a Wired article from [January 17, 2002](https://www.wired.com/2002/01/bill-gates-trustworthy-computing/).
 
 Regardless of what you think of Gates, Microsoft's history[^microsoft-disclosure], or the extent to which Gates and Microsoft were able to deliver on those principles, *Gates was willing to state without ambiguity that "trust" meant being accountable to customers about the quality and safety of its products.*
 
@@ -81,7 +81,7 @@ Many of our most prestigious scientific research institutions have helped to pro
 
 **Not significantly.** Our scientific culture perpetuates systems that subvert the truth. Scientist's success and prestige is not judged by the meticulousness of our methods or our caution against overstating the implications of our findings, but on how significant we can make our findings appear, how many papers we can publish, and whether these appear in venues of the highest prestige.[^weis] We gather for exclusive meetings amongst our research-area elites, to decide how we will distribute prestige, and pat ourselves on the back for performing this "community service". We direct our time and effort is directed at explaining to a super-majority of researchers submitting results that their work does not meet "the bar" for the arbitrarily-chosen acceptance rate that we believe maintains our desired the aura of prestige. We put service to our employers, and industry organizations, and program committees over service to science.
 
-[^weis]: Being informed that the Workshop on Economics of Information Security would be a more prestigious venue for Computer Scientists to publish if it were renamed a "conference", he kept it a workshop.
+[^weis]: Ross didn't seem to care much about venue prestige. He refused to reposition the Workshop on Economics of Information Security as a conference even if it would have made it appear more prestigious on authors' CVs.
 
 We know these institutions pervert how we conduct and evaluate science to serve their interests, but we choose complicity rather than risk our degrees, jobs, promotions, and social status. Perpetuating this system may be the default choice, *but it is a choice*. It is a choice we make make unconsciously every time we dedicate a service hour to peer reviewing a work to determine if it's worthy of prestige, when we could instead be helping others conduct more meticulous research and communicate it to the public more clearly.
 
